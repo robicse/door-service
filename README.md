@@ -1,3 +1,5 @@
 ### door-service
+
 ##### Service Provider, Customer, Admin
-###### Laravel and React JS
+
+###### Frontend React JS, Backend Laravel and MySQL
